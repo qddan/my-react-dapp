@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "my-react-dapp",
+    "slug": "my-react-dapp",
+    "version": "1.0.0",
+    "sdkVersion": "44.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.quangdong211.my-react-dapp"
+    },
+    "android": {
+      "package": "com.quangdong211.myreactdapp"
+    }
+  }
+}
